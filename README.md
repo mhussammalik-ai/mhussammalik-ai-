@@ -1,4 +1,4 @@
- mhussammalik-ai-
+# mhussammalik-ai-
 Welcome to my GitHub! 😎 I am a passionate web developer and creative technologist who loves building interactive, responsive, and visually appealing projects. My work spans web development, AI tools, UI/UX design, educational and business websites, clones of popular platforms, and fun interactive demos. I create websites for businesses, restaurants, cafes, travel, fitness, and lifestyle, as well as portfolio showcases and educational platforms.
 
 I enjoy experimenting with modern frameworks like Bootstrap and Tailwind CSS, crafting fully responsive layouts, and implementing interactive JavaScript features including calculators, alerts, and text tools. My AI projects explore text analysis and humanization, while my fun demos include simulators, games, and chaos experiments for learning and entertainment. I also explore fashion, style, and storytelling websites, combining creativity with functionality.
